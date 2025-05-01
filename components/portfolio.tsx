@@ -29,11 +29,7 @@ const Portfolio = () => {
                
                    <div className="mt-3">
                        <h4 className="font-medium dark:text-white">Tecnologías utilizadas:</h4>
-                       {/* <ul className="list-disc list-inside text-gray-700 dark:text-gray-400">
-                           {data.technologies.map((tech, index) => (
-                               <li key={index}>{tech}</li>
-                           ))}
-                       </ul> */}
+                       
                        <p className="text-gray-700 dark:text-gray-400">{data.technologies.join(", ")}</p>
                    </div>
                
