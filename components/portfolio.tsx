@@ -7,7 +7,7 @@ import { buttonVariants } from "./ui/button";
 const Portfolio = () => {
     return (
         <div className="p-4 max-w-4xl md:py-24 mx-auto" id="portfolio">
-            <Title title="Portfolio" subtitle="Trabajos recientes 💼" />
+            <Title title="Portfolio" subtitle="Personal Projects 💼" />
 
             <div className="grid md:grid-cols-3 gap-14 mt-4">
                 {dataPortfolio.map((data) => (

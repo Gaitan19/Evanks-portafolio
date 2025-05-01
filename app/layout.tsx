@@ -6,8 +6,9 @@ import { ThemeProvider } from "@/components/theme-provider";
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tarredev YT",
-  description: "Landing Page by TarreDev",
+  title: "Kenley Gaitan | Full Stack Developer",
+  description: "Landing Page by Kenley Gaitan",
+  icons:"/developer-icon.png",
 };
 
 export default function RootLayout({
