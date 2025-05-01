@@ -28,9 +28,9 @@ const Portfolio = () => {
                    <p className="text-gray-600 dark:text-gray-300 mt-2">{data.description}</p>
                
                    <div className="mt-3">
-                       <h4 className="font-medium dark:text-white">Tecnologías utilizadas:</h4>
+                       <h4 className="font-medium dark:text-white">Technologies used:</h4>
                        
-                       <p className="text-gray-700 dark:text-gray-400">{data.technologies.join(", ")}</p>
+                       <p className="text-sm text-gray-700 dark:text-gray-400">{data.technologies.join(", ")}</p>
                    </div>
                
                    <div className="mt-5 flex gap-5">
