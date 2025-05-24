@@ -75,6 +75,23 @@ export const dataSlider = [
 
 export const dataPortfolio = [
   {
+    id: 7,
+    title: "Events Management",
+    image: "/events-1.png",
+    description: "Full-stack platform for event management with real-time synchronization between modern UI and REST API.",
+    technologies: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "ASP.NET Core",
+      "SQL Server",
+      "REST API"
+    ],
+    urlGithub: "https://github.com/Gaitan19/Events-management-clientApp",
+    urlDemo: "https://events-management-evanks.netlify.app/"
+  },
+  {
     id: 1,
     title: "Foodingly",
     image: "/foodingly-1.png",
@@ -118,6 +135,22 @@ export const dataPortfolio = [
     technologies: ["Next.js","React", "GraphQL", "Redux", "SASS"],
     urlGithub: "https://github.com/Gaitan19/pokemon-site",
     urlDemo: "https://pokemon-evanks.netlify.app/",
+  },
+  {
+    id: 8,
+    title: "Borrowing System Client",
+    image: "/borrowing-client-1.png",
+    description: "Modern frontend for item borrowing management with JWT authentication, role-based access, and real-time analytics.",
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "React Query",
+      "REST API",
+      "JWT"
+    ],
+    urlGithub: "https://github.com/Gaitan19/BorrowingSystem-ClientApp",
+    urlDemo: "https://borrowing-system-client-app-yh8k.vercel.app/"
   },
   {
     id: 6,
