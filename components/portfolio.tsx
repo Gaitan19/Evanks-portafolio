@@ -35,7 +35,7 @@ const Portfolio = () => {
                                 {data.title}
                             </h3>
                             
-                            <p className="text-gray-600 dark:text-gray-300 mb-4 line-clamp-3 flex-grow">
+                            <p className="text-gray-600 dark:text-gray-300 mb-4 line-clamp-4 flex-grow">
                                 {data.description}
                             </p>
 
