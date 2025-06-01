@@ -370,8 +370,8 @@ export const dataContact = [
   {
     id: 3,
     title: "Email",
-    subtitle: "kenleyjos619@gmail.com",
-    link: "mailto:kenleyjos619@gmail.com",
+    subtitle: "kenleyjos1906@outlook.com",
+    link: "mailto:kenleyjos1906@outlook.com",
     icon: <Inbox />,
   },
 ];
