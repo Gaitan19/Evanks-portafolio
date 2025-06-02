@@ -95,7 +95,7 @@ export const dataPortfolio = [
   {
     id: 2,
     title: "Asset Loan API",
-    image: "/borrowing-1.jpg",
+    image: "/1-borrowing-apiRest.png",
     description: "Backend API that handles inventory loans, request approvals, secure JWT access, and detailed tracking of item availability and return lifecycle.",
     technologies: [".NET", "Entity Framework", "SQL Server", "JWT"],
     urlGithub: "https://github.com/Gaitan19/BorrowingSystemAPI",
