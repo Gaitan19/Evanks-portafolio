@@ -75,6 +75,15 @@ export const dataSlider = [
 
 export const dataPortfolio = [
   {
+    id: 11,
+    title: "My Hero Academia API",
+    image: "/1-myHeroapi.png",
+    description: "A comprehensive REST API for managing Heroes, Villains, Quirks, and Items from the My Hero Academia universe. Built with clean architecture principles and modern .NET practices.",
+    technologies: [".Net", "Entity Framework" ,"SQL Server","Repository Pattern"],
+    urlGithub: "https://github.com/Gaitan19/MyHeroAcademiaApi",
+    urlDemo: "https://myheroacademiaapi.somee.com/swagger/index.html"
+  },
+  {
     id: 7,
     title: "Event Management System",
     image: "/events-1.png",
