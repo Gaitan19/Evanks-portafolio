@@ -23,7 +23,7 @@ const Portfolio = () => {
                                 alt={data.title}
                                 width={400}
                                 height={300}
-                                className="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
+                                className="object-fill w-full h-full transition-transform duration-300 group-hover:scale-105"
                                 quality={100}
                                 priority={false}
                             />
