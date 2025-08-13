@@ -160,19 +160,24 @@ export const dataPortfolio = [
 export const workExperiences = [
   {
     id: 1,
-    role: "Web Developer",
-    company: "University Project",
-    duration: "May 2022",
+    role: "Frontend Developer | Backend Developer",
+    company: "Smart Business Solutions (SMBS)",
+    duration: "July 2025 - August 2025",
     responsibilities: [
-      "Inventory Manager: C# program that tracks stock for a hardware store, allows queries on available and out-of-stock items, and enables merchandise additions. The data is stored in a database created with SQL Server.",
-      "Technologies used: .NET, C#, SQL Server Database, Visual Studio 2022.",
+      "I participated in the development of a comprehensive web application for the daily record of production of construction materials, with generation of administrative reports for bond calculation.",
+      "Implemented full CRUD operations for multiple system entities, applying ASP.NET Core 6 (MVC), SQL Server, Dapper, DTOs, ViewModels, repositories, and services.",
+      "I contributed to the development of report modules, implementing independent views (create, edit, details and PDF generation by date range) and adapting functionalities to user profiles such as production managers, operators and supervisors.",
+      "Elaborated and optimized SQL queries and scripts to improve performance in data collection and processing.",
+      "Performed functional tests by entering data and verifying validations to ensure the absence of errors or failures in the system.",
+      "I participated in the deployment of the application in the \"Somee\" hosting, allowing the end user to carry out tests prior to putting it into production.",
+      "I used tools like Visual Studio 2022, SQL Server Management Studio, and version control with Git.",
     ],
   },
   {
     id: 2,
     role: "Frontend Developer | Backend Developer",
     company: "Smart Business Solutions (SMBS)",
-    duration: "June 2023 - Present",
+    duration: "May 2023 - June 2025",
     responsibilities: [
       "Developed landing pages using Next.js, SCSS, Bootstrap, and Tailwind CSS.",
       "Implemented REST APIs using ASP.NET, LINQ, SQL Server, and JWT.",
@@ -182,6 +187,17 @@ export const workExperiences = [
       "Participated in agile teams managed with Jira.",
     ],
   },
+  {
+    id: 3,
+    role: "Web Developer",
+    company: "University Project",
+    duration: "May 2022",
+    responsibilities: [
+      "Inventory Manager: C# program that tracks stock for a hardware store, allows queries on available and out-of-stock items, and enables merchandise additions. The data is stored in a database created with SQL Server.",
+      "Technologies used: .NET, C#, SQL Server Database, Visual Studio 2022.",
+    ],
+  },
+  
 ];
 
 export const dataExperience = [
