@@ -151,8 +151,8 @@ export const dataPortfolio = [
 export const workExperiences = [
   {
     id: 1,
-    role: "Frontend Developer | Backend Developer",
-    company: "Smart Business Solutions (SMBS)",
+    role: "Freelance Web Developer",
+    company: "ECOTEC – Production Management",
     duration: "July 2025 - August 2025",
     responsibilities: [
       "I participated in the development of a comprehensive web application for the daily record of production of construction materials, with generation of administrative reports for bond calculation.",
